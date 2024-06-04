@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StreamReaderAndWritter_0187
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lofilepath", "lofilepath\lofilepath.vcxproj", "{1732BA11-AB91-4157-8DAD-F9AFD820CD00}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ManualExeption", "ManualExeption\ManualExeption.vcxproj", "{FC690F1B-3CE3-4044-AEAE-09F97930B7F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{1732BA11-AB91-4157-8DAD-F9AFD820CD00}.Release|x64.Build.0 = Release|x64
 		{1732BA11-AB91-4157-8DAD-F9AFD820CD00}.Release|x86.ActiveCfg = Release|Win32
 		{1732BA11-AB91-4157-8DAD-F9AFD820CD00}.Release|x86.Build.0 = Release|Win32
+		{FC690F1B-3CE3-4044-AEAE-09F97930B7F1}.Debug|x64.ActiveCfg = Debug|x64
+		{FC690F1B-3CE3-4044-AEAE-09F97930B7F1}.Debug|x64.Build.0 = Debug|x64
+		{FC690F1B-3CE3-4044-AEAE-09F97930B7F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC690F1B-3CE3-4044-AEAE-09F97930B7F1}.Debug|x86.Build.0 = Debug|Win32
+		{FC690F1B-3CE3-4044-AEAE-09F97930B7F1}.Release|x64.ActiveCfg = Release|x64
+		{FC690F1B-3CE3-4044-AEAE-09F97930B7F1}.Release|x64.Build.0 = Release|x64
+		{FC690F1B-3CE3-4044-AEAE-09F97930B7F1}.Release|x86.ActiveCfg = Release|Win32
+		{FC690F1B-3CE3-4044-AEAE-09F97930B7F1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
